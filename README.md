@@ -18,7 +18,7 @@
 
 24.04.2017 - *Hosting dla technologii innych niż PHP, np. Java, ASP.NET, Python, Ruby* [(Mateusz Jędrzejek, Jakub Grzęda), (Banasz)]
 
-*Narzędzia do zarządzania projektami i bug trackingu*
+*Narzędzia do zarządzania projektami i bug trackingu* [Kamil Zemczak, Rafał Michalski]
 
 *Narzędzia do prototypowania*
 
